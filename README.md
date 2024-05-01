@@ -4,13 +4,13 @@
 </p>
 
 
-![Static Badge](https://img.shields.io/badge/Language-Scratch-%23855cd6)
-![Static Badge](https://img.shields.io/badge/Schulprojekt-green)
-![Static Badge](https://img.shields.io/badge/Note-nicht_erteilt-orange)
-![Static Badge](https://img.shields.io/badge/Mitwirkende-3-blue)
-![Static Badge](https://img.shields.io/github/last-commit/RedLion8399/EV3_rubiks_cube-solver.svg)
-![Static Badge](https://img.shields.io/github/license/RedLion8399/EV3_rubiks_cube-solver.svg)
-![Static Badge](https://img.shields.io/github/release/RedLion8399/EV3_rubiks_cube-solver.svg)
+![Programmiersprache Scratch](https://img.shields.io/badge/Language-Scratch-%23855cd6?link=https://scratch.mit.edu/)
+![Schulprojekt](https://img.shields.io/badge/Schulprojekt-green?link=gymnasium-warstein.de)
+![Note](https://img.shields.io/badge/Note-nicht_erteilt-orange)
+![Mitwirkende](https://img.shields.io/badge/Mitwirkende-3-blue)
+![Letzter Commit](https://img.shields.io/github/last-commit/RedLion8399/EV3_rubiks_cube-solver.svg)
+![Lizens](https://img.shields.io/github/license/RedLion8399/EV3_rubiks_cube-solver.svg)
+![Veröffentlichung](https://img.shields.io/github/release/RedLion8399/EV3_rubiks_cube-solver.svg)
 
 
 ## :page_facing_up: Inhaltsverzeichnis
