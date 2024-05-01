@@ -1,6 +1,6 @@
-<p align="center" hight="10%">
-    <img width="80%" src="./documentation/Banner_white-mode.png#gh-light-mode-only" alt="Dokument Header">
-    <img width="80%" src="./documentation/Banner_dark-mode.png#gh-dark-mode-only" alt="Dokument Header">
+<p align="center">
+    <img width="100%" src="./documentation/Banner_white-mode.png#gh-light-mode-only" alt="Dokument Header">
+    <img width="100%" src="./documentation/Banner_dark-mode.png#gh-dark-mode-only" alt="Dokument Header">
 </p>
 
 
