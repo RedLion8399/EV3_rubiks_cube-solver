@@ -1,5 +1,6 @@
 <p align="center" hight="10%">
-    <img width="80%" alt="Dokument Header" src="https://github.com/RedLion8399/EV3_rubiks_cube-solver/assets/146088103/6bb05498-3f2d-44e7-91f0-b698b6977c97#gh-white-mode-only" src="https://github.com/RedLion8399/EV3_rubiks_cube-solver/assets/146088103/af4b7ebf-6e1a-407e-9962-438fa57fdf53#gh-dark-mode-only">
+    <img width="80%" src="./documentation/Banner_white-mode.png#gh-light-mode-only" alt="Dokument Header">
+    <img width="80%" src="./documentation/Banner_dark-mode.png#gh-dark-mode-only" alt="Dokument Header">
 </p>
 
 
