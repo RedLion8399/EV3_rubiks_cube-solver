@@ -23,7 +23,9 @@
 
 
 ## :book: Einleitung
-DAs EV3 Rubiks Cube Solver berechnet den Lösungsweg eines Zauberwürfels mithilfe eines [Algorythmus](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Algorithmen). Dazu muss der Nutzer den Würfel manuell einscannen. Gelöst wird der Würfel mit zwei Motoren, die ihn aus Sicht des Roboters, um die x-Achse und die y-Achse rotierem, woraus sich alle weiteren Bewegungsmuster ergeben.
+Das EV3 Rubik's Cube Solver Programm berechnet den Lösungsweg eines Zauberwürfels mithilfe eines [Algorythmus](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Algorithmen). Dazu muss der Nutzer den Würfel manuell einscannen. Gelöst wird der Würfel mit zwei Motoren, die ihn aus Sicht des Roboters, um die x-Achse und die y-Achse rotierem, woraus sich alle weiteren Bewegungsmuster ergeben.
+
+Das EV3 Rubik's Cube Randomizer arbeitet mit den gleichen Motor Funktionen, verwendet diese jedoch in einer zufälligen Reihenfolge, um den Würfel zu verdrehen.
 
 
 ## :computer: Hard-/Softwarevorraussetzungen
@@ -51,7 +53,7 @@ D|-
 4|Tastsensor zum Bestätigen der Eingsbe
 
 - Motor-A so konfigurriert sein, dass durch eine Drehung um 90°, der Würfel um eine Seite entlang der y-Achse rotiert wird.  
-- Motor-B muss so konfigurruert sein, dass durch eine Drehung um 180° im Uhrzeigersinn aus der Ausgangsposition der Würfel antlang der x-Achse gekippt wird. 
+- Motor-B muss so konfigurriert sein, dass durch eine Drehung um 180° im Uhrzeigersinn aus der Ausgangsposition der Würfel antlang der x-Achse gekippt wird. 
 
 
 > [!IMPORTANT]
@@ -86,7 +88,10 @@ Es gibt mehrere Optionen, um das Programm zu erhalten und auszuführen.
    4. Bwginnend in der hinteren linken Ecke, nach rechts fortfahren. Danach die jewails daruntergelegene reihe einscannen.
    5. Die einzelnen Seiten in der vorgegebenen Reiehnfolge einscannen
 3. Stellen des Zauberwürfels auf den Drehteller. Aus der Perspektive des Steins befindet sich der rote Mittelpunkt vorne und der weiße Mittelpunkt oben. Betätigen des [Tastsensors zum Bestätigen](#Anschlussbelegung)
-4. Auf die Lösung des Würfels warten
+4. Auf den Abschluss des Programms warten
+
+> [!IMPORTANT]
+> Wenn sie das Rubik's Cube Randomizer Programm verwenden, fällt der 2. Schritt weg. Außerdem ist es beim 3. Schritt nicht erforderlich, den Würfel speziell auszurichten.
 
 
 ## :books: Weiterführende Dokumenation
@@ -96,10 +101,10 @@ Aufgrund der Komplexität des Programms ist es nicht möglich, den gesamten Funk
 
 Bei der Ausführung des Programms können Fehler auftreten. Einige davon sind auf irritierende Scratch Mechaniken zurückzuführen. diese sind [hier](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Bugs-and-Problems) dokumentiert.
 
-Der Algorythmus zur Lösung dieses Projekts ist nicht optimal und sehr zeitaufwendig, jedoch nicht möglich, anders umzusetzen (siehe [Bugs- und Probleme](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Bugs-and-Problems) dokumentiert.)  
+Der Algorythmus zur Lösung dieses Projekts ist nicht optimal und sehr zeitaufwendig, jedoch nicht möglich, anders umzusetzen (siehe [Bugs- und Probleme](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Bugs-and-Problems)) dokumentiert.  
 [Dieser und weitere Algorythmen](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Algorithmen) sind ebenfalls im Wiki zu finden.
 
-Der Hintergrund und die Gesamte Historie dieses Projekts sind [hier](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Historie) genauer erläutert.
+Der Hintergrund und die gesamte Historie dieses Projekts sind [hier](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Historie) genauer erläutert.
 
 
 ## :clap: Danksagung
