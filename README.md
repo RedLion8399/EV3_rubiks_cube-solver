@@ -99,6 +99,8 @@ Bei der Ausführung des Programms können Fehler auftreten. Einige davon sind au
 Der Algorythmus zur Lösung dieses Projekts ist nicht optimal und sehr zeitaufwendig, jedoch nicht möglich, anders umzusetzen (siehe [Bugs- und Probleme](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Bugs-and-Problems) dokumentiert.)  
 [Dieser und weitere Algorythmen](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Algorithmen) sind ebenfalls im Wiki zu finden.
 
+Der Hintergrund und die Gesamte Historie dieses Projekts sind [hier](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Historie) genauer erläutert.
+
 
 ## :clap: Danksagung
 Vielen Dank an das Team, als das wir dieses Projekt entgegen aller Hürden umgesetzt haben.
