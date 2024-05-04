@@ -108,14 +108,6 @@ Der Hintergrund und die gesamte Historie dieses Projekts sind [hier](https://git
 
 
 ## :clap: Danksagung
-Vielen Dank an das Team, als das wir dieses Projekt entgegen aller Hürden umgesetzt haben.
-
-Vielen Dank Lena für die große Unterstützung bei der Entwicklung des Codes, das einbringen deines Wissens, ohne welches das Projekt nicht möglich gewesen wäre, über das Lösen des zauberwürfels und das Fertigstellen der Hardware.
-
-Danke Eric für die initiale Idee zum Projekt und das anfertigen des ersten Prototypen, der die Grundlage für das heutige Endresultat gelegt haben.
-
----
-
 Wir möchten uns außerdem bei unserer Informatik Lehrerin Frau Sina bedanken, die uns bei der Umsetzung sehr unterstützt hat und für die zahllosen [Prbleme](https://github.com/RedLion8399/EV3_rubiks_cube-solver/wiki/Bugs-and-Problems) stets versucht hat eine Lösung zu finden.
 
 ---
